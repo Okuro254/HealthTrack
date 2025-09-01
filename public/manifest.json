@@ -1,0 +1,21 @@
+{
+  "name": "HealthCheck - AI Health Monitoring",
+  "short_name": "HealthCheck",
+  "description": "AI-powered health monitoring and clinic finder app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["health", "medical", "lifestyle"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
